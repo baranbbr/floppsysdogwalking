@@ -20,7 +20,7 @@ export default function Prices() {
                             <tr>
                                 <td className="px-4 py-3">Daytime Dog Walk</td>
                                 <td className="px-4 py-3">£15</td>
-                                <td className="px-4 py-3">60 minutes on or off lead.</td>
+                                <td className="px-4 py-3">Solo walk. 60 minutes on or off lead.</td>
                             </tr>
                             <tr>
                                 <td className="border-t-2 border-gray-200 px-4 py-3">Daytime Visit</td>
