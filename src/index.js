@@ -6,7 +6,6 @@ import Hero from './components/Hero';
 import Services from './components/Services';
 import Prices from './components/Prices';
 import Contact from './components/Contact';
-import reportWebVitals from './reportWebVitals';
 import Footer from './components/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
