@@ -76,7 +76,7 @@ export default function Hero() {
                     <h3>Sophie Leadbetter</h3>
                 </div>
             </div>
-            <div className='panel' id='panel3' style={{ backgroundImage: `url('https://scontent.fltn2-1.fna.fbcdn.net/v/t39.30808-6/292166381_163243319529039_2375465210644663366_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=iljfwMU9jSoAX-8mkm6&_nc_ht=scontent.fltn2-1.fna&oh=00_AT-yNnQsTLf9IT3s4uq36_woZhGfsnSt3CZ2yPdIqT3zVw&oe=62E85745')` }}>
+            <div className='panel' id='panel3' style={{ backgroundImage: `url('https://images.unsplash.com/photo-1575796267277-8728d6a36aa8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80')` }}>
                 <div className='w-full bg-gray-700 rounded-[50px] overlay'>
                     <p className='small-text'>100% recommend Liam. I am very fortunate Liam was able to help me last minute after I had been cancelled on twice. It isn't always easy to find a dog walker as my boy can be reactive, however Liam was happy to help from the get-go, listened to all my worries and notes about the dog!
                         <br /><br />Amazing service, very professional, nothing was too much to ask even with all my needs! I really loved receiving photos of my boy on his walks- such a nice touch!
