@@ -9,7 +9,7 @@ export default function Contact() {
                     <p className="mx-auto md:text-base text-center">We&apos;ll try to get back to you as soon as possible, thanks!</p>
                 </div>
                 <div className='md:flex md:flex-row-reverse'>
-                    <form className="lg:w-1/2 md:w-2/3 mx-auto py-4" action='https://formsubmit.co/floppsydogwalking@gmail.com' method='post'>
+                    <form className="lg:w-1/2 md:w-2/3 mx-auto py-4" action=''>
                         <div className="flex flex-wrap -m-2">
                             <div className="p-2 w-1/2">
                                 <div className="relative">
@@ -33,12 +33,12 @@ export default function Contact() {
                                 <button className="flex mx-auto text-white bg-[#1308fe] border-0 py-2 px-8 focus:outline-none hover:bg-[#1006dc] rounded text-lg">Send</button>
                             </div>
                             <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-                                <a className="text-[#1308fe]" href='mailto:floppsydogwalking@gmail.com'>floppsydogwalking@gmail.com</a>
+                                <a className="text-[#1308fe]">dogwalking@example.com</a>
                                 <p className="leading-normal my-5">
                                     Bordon, Hampshire, UK
                                 </p>
                                 <span className="inline-flex">
-                                    <a className="text-gray-500" href='https://www.facebook.com/floppsysdogwalking' target="_blank" rel="noreferrer">
+                                    <a className="text-gray-500" href='#' target="_blank" rel="noreferrer">
                                         <svg fill="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
                                             <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
                                         </svg>
